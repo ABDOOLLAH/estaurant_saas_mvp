@@ -1,0 +1,96 @@
+{
+  "appTitle": "Staff Operations",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "Login",
+  "logout": "Logout",
+  "waiter": "Waiter",
+  "kitchen": "Kitchen",
+  "cashier": "Cashier",
+  "admin": "Admin",
+  "diagnostics": "Diagnostics",
+  "errorOccurred": "An error occurred",
+  "retry": "Retry",
+  "cashierCheckout": "Cashier - Checkout",
+  "selectOrder": "Select an order to view details",
+  "orderSummary": "Order Summary",
+  "total": "Total",
+  "cash": "CASH",
+  "card": "CARD",
+  "paymentSuccessful": "Payment Successful",
+  "processingPayment": "Processing {method} payment...",
+  "@processingPayment": {
+    "placeholders": {
+      "method": {
+        "type": "String"
+      }
+    }
+  },
+  "tableNumber": "Table {number}",
+  "@tableNumber": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "orderId": "Order #{id}",
+  "@orderId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "currency": "SAR",
+  "waiterMode": "Waiter Mode - Active Tables",
+  "available": "Available",
+  "kitchenDisplay": "Kitchen Display (KDS)",
+  "pending": "Pending",
+  "cooking": "Cooking",
+  "ready": "Ready",
+  "start": "START",
+  "readyAction": "READY",
+  "bump": "BUMP",
+  "minutesShort": "{minutes}m",
+  "@minutesShort": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "printReceipt": "Print Receipt",
+  "newOrder": "New Order",
+  "all": "All",
+  "noItemsFound": "No items found in this category",
+  "currentOrder": "Current Order",
+  "dineIn": "Dine-in",
+  "cartEmpty": "Cart is empty",
+  "subtotal": "Subtotal",
+  "vat": "VAT (15%)",
+  "orderSent": "Order sent to kitchen",
+  "sendToKitchen": "SEND TO KITCHEN",
+  "addProductToOrder": "Add {name} to order, price {price}",
+  "@addProductToOrder": {
+    "placeholders": {
+      "name": { "type": "String" },
+      "price": { "type": "String" }
+    }
+  },
+  "removeItem": "Remove {name}",
+  "@removeItem": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "statusPending": "Pending",
+  "statusConfirmed": "Confirmed",
+  "statusPreparing": "Preparing",
+  "statusReady": "Ready",
+  "statusDelivered": "Delivered",
+  "statusPaid": "Paid",
+  "statusCancelled": "Cancelled",
+  "statusRefunded": "Refunded"
+}
